@@ -1,0 +1,28 @@
+{
+  "name": "rapplication",
+  "version": "1.0.0",
+  "description": "Rapping a js application over Wu-Tang Clan beat (Tearz)",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/gearz.git"
+  },
+  "author": "Andrew Carpenter (https://github.com/doesdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/gearz/issues"
+  },
+  "homepage": "https://github.com/doesdev/gearz#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
