@@ -1,7 +1,7 @@
 {
   "name": "rapplication",
   "version": "1.0.0",
-  "description": "Rapping a js application over Wu-Tang Clan beat (Tearz)",
+  "description": "Rapping JavaScript source code over Wu-Tang Clan beat (Tearz)",
   "main": "index.js",
   "files": [
     "index.js"

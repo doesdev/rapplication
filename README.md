@@ -4,7 +4,11 @@
 
 # rapplication [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
 
-> Rapping a js application over Wu-Tang Clan beat (Tearz)
+> Rapping JavaScript source code over Wu-Tang Clan beat (Tearz)
+
+## Vidya
+
+https://youtu.be/f5dx4DgxslQ
 
 ## Why?
 
