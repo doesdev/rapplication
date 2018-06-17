@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Subliminal Spectrum" width="400" />
 </div>
 
-# rapplication [![NPM version](https://badge.fury.io/js/rapplication.svg)](https://npmjs.org/package/rapplication)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
+# rapplication [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
 
 > Rapping a js application over Wu-Tang Clan beat (Tearz)
 
@@ -14,7 +14,7 @@ I just wanted to see if I could rap source code for a working application.
 
 1. Try not to be too cheesy, cause you know, it's a novelty item
 2. It should be a functional application
-  - Every lyric should be able to go in the code without breaking functionality
+  - Every lyric should translate to working code
   - It should be verbose enough to work, but abstract enough to flow
 
 ## Goals Achieved?
