@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Subliminal Spectrum" width="400" />
+  <img src="logo.png" alt="Subliminal Spectrum" width="400" />
 </div>
 
 # rapplication [![NPM version](https://badge.fury.io/js/rapplication.svg)](https://npmjs.org/package/rapplication)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
