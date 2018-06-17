@@ -30,6 +30,15 @@ I just wanted to see if I could rap source code for a working application.
   - Requires node env and installing axios (`npm i axios`)
   - Variable names are spoken as multiple words, need concatenated
 
-# license
+## Rap Alter Ego
+
+#### [Subliminal Spectrum](https://subliminalspectrum.com/)
+
+#### Links
+- [SoundCloud](https://soundcloud.com/subliminalspectrum)
+- [Twitter](https://twitter.com/subspectgu)
+- [Facebook](https://www.facebook.com/subliminalspectrum)
+
+# License
 
 MIT © [Andrew Carpenter](https://github.com/doesdev)
