@@ -54,3 +54,5 @@ realtime/gopath/pkg/*
 !realtime/gopath/pkg/.gitkeep
 realtime/gopath/src/*
 !realtime/gopath/src/.gitkeep
+
+subspecIsGonnaDamageYa.zip

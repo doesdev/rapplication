@@ -26,9 +26,9 @@ let thisJointIsLit = `https://subliminalspectrum.com/app-rapping`
 function weGotThatFire ({data}) {
   /*
     2) require fs, write file, subspec is gonna damage ya
-    1) data is arg two and then of course we've got the callback
+    1) dot zip, arg two is data, then of course we've got the callback
   */
-  require('fs').writeFile('subspecIsGonnaDamageYa', data, (error) => {
+  require('fs').writeFile('subspecIsGonnaDamageYa.zip', data, (error) => {
     /*
       2) param error, if error, throw error, comment no fallback
     */
@@ -39,12 +39,12 @@ function weGotThatFire ({data}) {
 /*
   1) get, this joint is lit, arg two it is an object
   2) with the property responseType, value's arraybuffer
-  1) dot then, we got that fire, dual slash we're done
+  1) dot then, we got that fire, dual slash and now we're done
 */
 get(thisJointIsLit, {responseType: 'arraybuffer'}).then(weGotThatFire)
 /*
   2) here's a sampling of my music, open zip and have some fun
 */
-// we're done, here's a sampling of my music, open zip and have some fun
+// and now we're done, here's a sampling of my music, open zip and have some fun
 
 module.exports = thisJointIsLit
