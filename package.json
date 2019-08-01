@@ -6,23 +6,19 @@
   "files": [
     "index.js"
   ],
-  "scripts": {
-    "test": "ava --verbose"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doesdev/gearz.git"
+    "url": "git+https://github.com/doesdev/rapplication.git"
   },
   "author": "Andrew Carpenter (https://github.com/doesdev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doesdev/gearz/issues"
+    "url": "https://github.com/doesdev/rapplication/issues"
   },
-  "homepage": "https://github.com/doesdev/gearz#readme",
+  "homepage": "https://github.com/doesdev/rapplication#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.19.0"
   },
-  "devDependencies": {
-    "ava": "^0.25.0"
-  }
+  "devDependencies": {}
 }
